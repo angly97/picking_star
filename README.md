@@ -9,7 +9,7 @@
 ​	<img src ="./img/whole_project.JPG" width=70% height=70%>
 
  * 소프트웨어
-    * Unity
+    * Unity 1.1.9
     * 사용자가 보게 될 가상 현실을 구현
     * 하드웨어로부터 받은 신호(센서 값 등)으로, 가상 현실 내 사용자를 움직임
  * 하드웨어
